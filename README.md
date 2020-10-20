@@ -1,5 +1,6 @@
 ### Hi there 👋
-о:
+contact:
+https://vk.com/ogrobertino
 <!--
 **OganyanRV/OganyanRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
